@@ -1,0 +1,3 @@
+class NotNumber(ValueError):
+
+    pass
